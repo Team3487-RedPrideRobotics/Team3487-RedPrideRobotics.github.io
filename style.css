@@ -1,5 +1,5 @@
 body {
-    background: #60b2ff;
+    background: #f24444;
   }
   p {
     text-decoration: none;
@@ -19,31 +19,31 @@ body {
 
   h2 {
     font-weight: bold;
-    font-family: monospace;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center
   }
 
   h3 {
     font-weight: bold;
-    font-family: monospace;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center
   }
 
   h4 {
     font-weight: bold;
-    font-family: monospace;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center
   }
 
   h5 {
     font-weight: bold;
-    font-family: monospace;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center
   }
 
   h6 {
     font-weight: bold;
-    font-family: monospace;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center
   }
   
@@ -65,28 +65,28 @@ body {
     font-weight: bold;
     color: black;
     font-family: monospace;
-    padding: 10px;
+    padding: 5px;
   }
   
   .link{
     text-align: center;
-    padding: 10px;
-    border-radius: 15px;
+    padding: 5px;
+    border-radius: 5px;
   }
   
   .V{
     text-decoration: none;
     font-weight: bold;
     color: black;
-    font-family: monospace;
-    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
   }
   
   a:hover{
-    border-color: #60b2ff;
-    background-color: #60b2ff;
-    font-family: monospace;
-    color: #60b2ff;
+    border-color: #f24444;
+    background-color: #f24444;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f24444;
   }
 
 img{
