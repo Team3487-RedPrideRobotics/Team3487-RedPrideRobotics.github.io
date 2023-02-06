@@ -10,6 +10,8 @@ h1{
   font-size: 30px;
 }
 
+//link stuff
+
  a {
     text-decoration: none;
     color: black;
@@ -22,5 +24,10 @@ h1{
     text-align: center;
     padding: 5px;
     border-radius: 5px;
+  }
+
+  a:hover{
+    background-color: white;
+    color: white;
   }
   
