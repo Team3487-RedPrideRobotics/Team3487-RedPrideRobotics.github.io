@@ -9,3 +9,18 @@ h1{
   font-family: monospace;
   font-size: 30px;
 }
+
+ a {
+    text-decoration: none;
+    color: black;
+    font-family: monospace;
+    padding: 5px;
+    text-align: center;
+  }
+  
+  .link{
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
