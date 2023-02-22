@@ -10,7 +10,7 @@ body {
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #FFF;
 }
 
 .topnav a {
@@ -23,7 +23,7 @@ body {
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #FFF;
   color: black;
 } 
 
@@ -37,49 +37,49 @@ body {
 
   p {
     text-decoration: none;
-    font-weight: bold;
+    font-weight: normal;
     color: black;
     font-family: Roboto;
     padding: 10px;
-    text-align: center
+    text-align: left;
   }
   
   
   h1 {
-    font-weight: bold;
+    font-weight: normal;
     font-family: Roboto;
-    text-align: center;
+    text-align: left;;
     padding: 5px;
   }
 
   h2 {
-    font-weight: bold;
+    font-weight: normal;
     font-family: Roboto;
-    text-align: center
+    text-align: left;
   }
 
   h3 {
-    font-weight: bold;
+    font-weight: normal;
     font-family: Roboto;
-    text-align: center
+    text-align: left;
   }
 
   h4 {
-    font-weight: bold;
+    font-weight: normal;
     font-family: Roboto;
-    text-align: center
+    text-align: left;
   }
 
   h5 {
-    font-weight: bold;
+    font-weight: normal;
     font-family: Roboto;
-    text-align: center
+    text-align: left;
   }
 
   h6 {
-    font-weight: bold;
+    font-weight: normal;
     font-family: Roboto;
-    text-align: center
+    text-align: left;
   }
   
   hr{
@@ -97,14 +97,13 @@ body {
   
   a {
     text-decoration: none;
-    font-weight: bold;
     color: black;
     font-family: Roboto;
     padding: 5px;
   }
   
   .link{
-    text-align: center;
+    text-align: left;
     padding: 5px;
     border-radius: 5px;
   }
@@ -119,7 +118,7 @@ body {
   
   a:hover{
     border-color: #f24444;
-    background-color: #f24444;
+    background-color: #FFF;
     font-family: Roboto;
     color: #f24444;
   }
