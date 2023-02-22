@@ -66,4 +66,125 @@ body {
 </html>
 
 
+/* 
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
 
+/*
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* 
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+} 
+
+body {
+    background: #ed2626;
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.5;
+  }
+
+  p {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-family: Roboto;
+    padding: 10px;
+    text-align: center
+  }
+  
+  
+  h1 {
+    font-weight: bold;
+    font-family: Roboto;
+    text-align: center;
+    padding: 5px;
+  }
+
+  h2 {
+    font-weight: bold;
+    font-family: Roboto;
+    text-align: center
+  }
+
+  h3 {
+    font-weight: bold;
+    font-family: Roboto;
+    text-align: center
+  }
+
+  h4 {
+    font-weight: bold;
+    font-family: Roboto;
+    text-align: center
+  }
+
+  h5 {
+    font-weight: bold;
+    font-family: Roboto;
+    text-align: center
+  }
+
+  h6 {
+    font-weight: bold;
+    font-family: Roboto;
+    text-align: center
+  }
+  
+  hr{
+    color: black;
+    border-color: black;
+  }
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+  }
+  
+  
+  a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-family: Roboto;
+    padding: 5px;
+  }
+  
+  .link{
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+  .V{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-family: Roboto;
+    padding: 5px;
+  }
+  
+  a:hover{
+    border-color: #f24444;
+    background-color: #f24444;
+    font-family: Roboto;
+    color: #f24444;
+  }
+
+img{
+    border: 5px solid black;
+} */
