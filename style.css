@@ -1,12 +1,23 @@
 body {
     background: #FFF;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-style: normal;
     line-height: 1.5;
   }
 
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-ThinItalic-webfont.eot');
+    src: url('Roboto-ThinItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Roboto-ThinItalic-webfont.woff') format('woff'),
+         url('Roboto-ThinItalic-webfont.ttf') format('truetype'),
+         url('Roboto-ThinItalic-webfont.svg#RobotoThinItalic') format('svg');
+    font-weight: 200;
+    font-style: italic;
+}
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
 
 .topnav {
   overflow: hidden;
@@ -20,6 +31,7 @@ body {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-family: 'Roboto', sans-serif;
 }
 
 .topnav a:hover {
@@ -29,7 +41,7 @@ body {
 
 body {
     background: #ed2626;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-style: normal;
     line-height: 1.5;
@@ -39,7 +51,7 @@ body {
     text-decoration: none;
     font-weight: normal;
     color: black;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     padding: 10px;
     text-align: left;
   }
@@ -47,38 +59,38 @@ body {
   
   h1 {
     font-weight: normal;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     text-align: left;;
     padding: 5px;
   }
 
   h2 {
     font-weight: normal;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     text-align: left;
   }
 
   h3 {
     font-weight: normal;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     text-align: left;
   }
 
   h4 {
     font-weight: normal;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     text-align: left;
   }
 
   h5 {
     font-weight: normal;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     text-align: left;
   }
 
   h6 {
     font-weight: normal;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     text-align: left;
   }
   
@@ -98,7 +110,7 @@ body {
   a {
     text-decoration: none;
     color: black;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     padding: 5px;
   }
   
@@ -112,14 +124,14 @@ body {
     text-decoration: none;
     font-weight: bold;
     color: black;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     padding: 5px;
   }
   
   a:hover{
     border-color: #f24444;
     background-color: #FFF;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     color: #f24444;
   }
 
