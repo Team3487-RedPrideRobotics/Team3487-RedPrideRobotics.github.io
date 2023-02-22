@@ -6,95 +6,141 @@ body {
     line-height: 1.5;
   }
 
-  p {
-    text-decoration: none;
-    font-weight: bold;
-    color: black;
-    font-family: Roboto;
-    padding: 10px;
-    text-align: center
-  }
-  
-  
-  h1 {
-    font-weight: bold;
-    font-family: Roboto;
-    text-align: center;
-    padding: 5px;
-  }
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+    <style>
+      body, h1, h2, h3, h4, h5, h6  {
+      font-family: Roboto, sans-serif;
+        }
+    </style>
+ 
 
-  h2 {
-    font-weight: bold;
-    font-family: Roboto;
-    text-align: center
-  }
 
-  h3 {
-    font-weight: bold;
-    font-family: Roboto;
-    text-align: center
-  }
+    Home
+    CSS
+    CSS Templates
+    Tryit: Template 4 
 
-  h4 {
-    font-weight: bold;
-    font-family: Roboto;
-    text-align: center
-  }
+Result Size: 753 x 564
 
-  h5 {
-    font-weight: bold;
-    font-family: Roboto;
-    text-align: center
-  }
+<!DOCTYPE html>
 
-  h6 {
-    font-weight: bold;
-    font-family: Roboto;
-    text-align: center
-  }
-  
-  hr{
-    color: black;
-    border-color: black;
-  }
-  
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 10%;
-  }
-  
-  
-  a {
-    text-decoration: none;
-    font-weight: bold;
-    color: black;
-    font-family: Roboto;
-    padding: 5px;
-  }
-  
-  .link{
-    text-align: center;
-    padding: 5px;
-    border-radius: 5px;
-  }
-  
-  .V{
-    text-decoration: none;
-    font-weight: bold;
-    color: black;
-    font-family: Roboto;
-    padding: 5px;
-  }
-  
-  a:hover{
-    border-color: #f24444;
-    background-color: #f24444;
-    font-family: Roboto;
-    color: #f24444;
-  }
+<html lang="en">
 
-img{
-    border: 5px solid black;
+<head>
+
+<title>CSS Template</title>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+
+* {
+
+  box-sizing: border-box;
+
 }
+
+body {
+
+  margin: 0;
+
+  font-family: Roboto, sans-serif;
+
+}
+
+/* Style the side navigation */
+
+.sidenav {
+
+  height: 100%;
+
+  width: 200px;
+
+  position: fixed;
+
+  z-index: 1;
+
+  top: 0;
+
+  left: 0;
+
+  background-color: #111;
+
+  overflow-x: hidden;
+
+}
+
+
+
+/* Side navigation links */
+
+.sidenav a {
+
+  color: white;
+
+  padding: 16px;
+
+  text-decoration: none;
+
+  display: block;
+
+}
+
+
+
+/* Change color on hover */
+
+.sidenav a:hover {
+
+  background-color: #ddd;
+
+  color: black;
+
+}
+
+
+
+/* Style the content */
+
+.content {
+
+  margin-left: 200px;
+
+  padding-left: 20px;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="sidenav">
+
+  <a href="#">Link</a>
+
+  <a href="#">Link</a>
+
+  <a href="#">Link</a>
+
+</div>
+
+<div class="content">
+
+  <h2>CSS Template</h2>
+
+  <p>A full-height, fixed sidenav and content.</p>
+
+</div>
+
+
+
+</body>
+
+</html>
+
+
+
