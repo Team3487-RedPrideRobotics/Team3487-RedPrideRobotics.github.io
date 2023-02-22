@@ -1,6 +1,6 @@
 body {
     background: #ed2626;
-    font-family: 'OpenSans';
+    font-family: 'Roboto';
     font-weight: 400;
     font-style: normal;
     line-height: 1.5;
@@ -10,7 +10,7 @@ body {
     text-decoration: none;
     font-weight: bold;
     color: black;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto, sans-serif;
     padding: 10px;
     text-align: center
   }
@@ -18,38 +18,38 @@ body {
   
   h1 {
     font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto, sans-serif;
     text-align: center;
     padding: 5px;
   }
 
   h2 {
     font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto, sans-serif;
     text-align: center
   }
 
   h3 {
     font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto, sans-serif;
     text-align: center
   }
 
   h4 {
     font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto, sans-serif;
     text-align: center
   }
 
   h5 {
     font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto, sans-serif;
     text-align: center
   }
 
   h6 {
     font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto, sans-serif;
     text-align: center
   }
   
@@ -70,7 +70,7 @@ body {
     text-decoration: none;
     font-weight: bold;
     color: black;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto, sans-serif;
     padding: 5px;
   }
   
@@ -84,14 +84,14 @@ body {
     text-decoration: none;
     font-weight: bold;
     color: black;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto, sans-serif;
     padding: 5px;
   }
   
   a:hover{
     border-color: #f24444;
     background-color: #f24444;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto, sans-serif;
     color: #f24444;
   }
 
