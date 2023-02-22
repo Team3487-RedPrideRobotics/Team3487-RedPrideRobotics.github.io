@@ -1,6 +1,11 @@
 body {
     background: #ed2626;
+    font-family: 'OpenSans';
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.5;
   }
+
   p {
     text-decoration: none;
     font-weight: bold;
